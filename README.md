@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/nícolas-cardoso-da-silva-24623b37a" target="_blank">
+  <a href="https://www.linkedin.com/in/n%C3%ADcolas-cardoso-da-silva-24623b37a/?isSelfProfile=true" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/nicardoso/" target="_blank">
