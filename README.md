@@ -36,13 +36,13 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<!-- <h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasCardosodaSilva&show_icons=true&include_all_commits=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasCardosodaSilva&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NicolasCardosodaSilva&radius=16&theme=dracula&area=true" alt="activity graph" />
-</div>
+</div> -->
 
 ###
